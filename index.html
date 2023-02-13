@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<head>
+    
+    <title>Tours & Travels</title>
+    <meta charset = "UTF-8">
+    <meta viewport="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<!--Navigation-->
+<div class="container">
+    <div class="navigation">
+        <div class="nav-left">
+            <div class="nav-link-wrap active-nav-link">
+                <a href="index.html">Home</a>
+            </div>
+            <div class="nav-link-wrap">
+                <a href="volvo.html">Buses</a>
+            </div>
+            <div class="nav-link-wrap">
+                <a href="hotel.html">Hotels</a>
+            </div>
+        </div>
+        <div class="nav-right">
+            <div class="random">
+                <a href="about.html">About</a>
+            </div>
+            <div class="random1">
+                <div>Botellerlogo</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Content-->
+<div class="dealspage">
+    <div class="excitingdeals">
+        <div class="excitingdeal">
+            <div class="dealbackground" style="background-image:url(images/bus.jpg)"></div>
+
+            <div class="text-wrap">
+                <div class="subtext">
+                    A very exciting trip offering you a comfortable ride from Point A to Point B
+                </div>
+            </div>
+
+        </div>
+
+        <div class="excitingdeal">
+            <div class="dealbackground" style="background-image:url(images/hotel.jpg)"></div>
+
+            <div class="text-wrap">
+                <div class="subtext">
+                    A very exciting trip offering you a comfortable ride from Point A to Point B
+                </div>
+            </div>
+
+        </div>
+
+        <div class="excitingdeal">
+            <div class="dealbackground" style="background-image:url(images/hotel.jpg)"></div>
+
+            <div class="text-wrap">
+                <div class="subtext">
+                    A very exciting trip offering you a comfortable ride from Point A to Point B
+                </div>
+            </div>
+
+        </div>
+
+        <div class="excitingdeal">
+            <div class="dealbackground" style="background-image:url(images/bus.jpg)"></div>
+
+            <div class="text-wrap">
+                <div class="subtext">
+                    A very exciting trip offering you a comfortable ride from Point A to Point B
+                </div>
+            </div>
+
+        </div>
+
+        <div class="excitingdeal">
+            <div class="dealbackground" style="background-image:url(images/bus.jpg)"></div>
+
+            <div class="text-wrap">
+                <div class="subtext">
+                    A very exciting trip offering you a comfortable ride from Point A to Point B
+                </div>
+            </div>
+
+        </div>
+
+        <div class="excitingdeal">
+            <div class="dealbackground" style="background-image:url(images/hotel.jpg)"></div>
+
+            <div class="text-wrap">
+                <div class="subtext">
+                    A very exciting trip offering you a comfortable ride from Point A to Point B
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<script>
+    const portfolioItems = document.querySelectorAll('.excitingdeal');
+  
+    portfolioItems.forEach(portfolioItem => {
+        portfolioItem.addEventListener('mouseover', () => {
+            console.log(portfolioItem.childNodes[1].classList);
+            portfolioItem.childNodes[1].classList.add('img-blur');
+        })
+
+        portfolioItem.addEventListener('mouseout', () => {
+            console.log(portfolioItem.childNodes[1].classList);
+            portfolioItem.childNodes[1].classList.remove('img-blur');
+        })
+    })
+      
+  
+  </script>
+</body>
