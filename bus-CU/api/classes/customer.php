@@ -276,7 +276,7 @@ class Customer extends Bus{
         $this->pdf->SetTextColor(13, 13, 13);
         $this->pdf->SetX(50);
         $this->pdf->SetXY(50,$y+13);
-        $this->pdf->Cell(12,10,'27-12-2019',0,0,'L');
+        $this->pdf->Cell(12,10,'27-12-2023',0,0,'L');
 
 
         // // footer
@@ -1273,7 +1273,7 @@ class Customer extends Bus{
                                         </tr>
 
                                         <script type="application/ld+json">
-                                            { "@context": "http://schema.org", "@type": "EventReservation", "reservationNumber": "973030087", "reservationStatus": "http://schema.org/Confirmed", "modifyReservationUrl": "https://www.eventbrite.com/mytickets/973030087?utm_campaign=order_confirm&amp;utm_medium=email&amp;ref=eemailordconf&amp;utm_source=eb_email&amp;utm_term=googlenow", "underName": { "@type": "Person", "name": "James Muriithi" }, "reservationFor": { "@type": "Event", "name": "ALC MEETUP 1.0 [ Mombasa ]", "startDate": "2019-06-29T08:00:00+03:00", "endDate": "2019-06-29T14:00:00+03:00", "location": { "@type": "Place", "name": "Swahili Box", "address": { "@type": "PostalAddress", "streetAddress": "Sir Mbarak Hinawy Road", "addressLocality": "Mombasa", "addressRegion": "Mombasa County", "postalCode": "", "addressCountry": "KE" } } } }
+                                            { "@context": "http://schema.org", "@type": "EventReservation", "reservationNumber": "973030087", "reservationStatus": "http://schema.org/Confirmed", "modifyReservationUrl": "https://www.eventbrite.com/mytickets/973030087?utm_campaign=order_confirm&amp;utm_medium=email&amp;ref=eemailordconf&amp;utm_source=eb_email&amp;utm_term=googlenow", "underName": { "@type": "Person", "name": "James Muriithi" }, "reservationFor": { "@type": "Event", "name": "ALC MEETUP 1.0 [ Mombasa ]", "startDate": "2023-06-29T08:00:00+03:00", "endDate": "2023-06-29T14:00:00+03:00", "location": { "@type": "Place", "name": "Swahili Box", "address": { "@type": "PostalAddress", "streetAddress": "Sir Mbarak Hinawy Road", "addressLocality": "Mombasa", "addressRegion": "Mombasa County", "postalCode": "", "addressCountry": "KE" } } } }
                                         </script>
 
                                         <!-- Footer Section-->
@@ -1442,7 +1442,7 @@ class Customer extends Bus{
         font-family: \'Helvetica Neue\', Helvetica, Arial, sans-serif;
      color:#4B4D63;font-weight:normal;" class="">
 
-            Copyright &copy; 2019 BUS. All rights reserved.
+            Copyright &copy; 2023 BUS. All rights reserved.
 
     </span>
 
@@ -1467,7 +1467,7 @@ class Customer extends Bus{
                                                                     </td>
                                                                 </tr>
 
-                                                                <img src="https://www.eventbrite.com/emails/action/?recipient=muriithijames556%40gmail.com&amp;type_id=65&amp;type=open&amp;send_id=2019-06-25&amp;list_id=9" alt="" width="1" height="1" />
+                                                                <img src="https://www.eventbrite.com/emails/action/?recipient=muriithijames556%40gmail.com&amp;type_id=65&amp;type=open&amp;send_id=2023-06-25&amp;list_id=9" alt="" width="1" height="1" />
 
                                                             </table>
                                                         </td>
@@ -2412,7 +2412,7 @@ class Customer extends Bus{
                                         </tr>
 
                                         <script type="application/ld+json">
-                                            { "@context": "http://schema.org", "@type": "EventReservation", "reservationNumber": "973030087", "reservationStatus": "http://schema.org/Confirmed", "modifyReservationUrl": "https://www.eventbrite.com/mytickets/973030087?utm_campaign=order_confirm&amp;utm_medium=email&amp;ref=eemailordconf&amp;utm_source=eb_email&amp;utm_term=googlenow", "underName": { "@type": "Person", "name": "James Muriithi" }, "reservationFor": { "@type": "Event", "name": "ALC MEETUP 1.0 [ Mombasa ]", "startDate": "2019-06-29T08:00:00+03:00", "endDate": "2019-06-29T14:00:00+03:00", "location": { "@type": "Place", "name": "Swahili Box", "address": { "@type": "PostalAddress", "streetAddress": "Sir Mbarak Hinawy Road", "addressLocality": "Mombasa", "addressRegion": "Mombasa County", "postalCode": "", "addressCountry": "KE" } } } }
+                                            { "@context": "http://schema.org", "@type": "EventReservation", "reservationNumber": "973030087", "reservationStatus": "http://schema.org/Confirmed", "modifyReservationUrl": "https://www.eventbrite.com/mytickets/973030087?utm_campaign=order_confirm&amp;utm_medium=email&amp;ref=eemailordconf&amp;utm_source=eb_email&amp;utm_term=googlenow", "underName": { "@type": "Person", "name": "James Muriithi" }, "reservationFor": { "@type": "Event", "name": "ALC MEETUP 1.0 [ Mombasa ]", "startDate": "2023-06-29T08:00:00+03:00", "endDate": "2023-06-29T14:00:00+03:00", "location": { "@type": "Place", "name": "Swahili Box", "address": { "@type": "PostalAddress", "streetAddress": "Sir Mbarak Hinawy Road", "addressLocality": "Mombasa", "addressRegion": "Mombasa County", "postalCode": "", "addressCountry": "KE" } } } }
                                         </script>
 
                                         <!-- Footer Section-->
@@ -2581,7 +2581,7 @@ class Customer extends Bus{
         font-family: \'Helvetica Neue\', Helvetica, Arial, sans-serif;
      color:#4B4D63;font-weight:normal;" class="">
 
-            Copyright &copy; 2019 BUS. All rights reserved.
+            Copyright &copy; 2023 BUS. All rights reserved.
 
     </span>
 
@@ -2606,7 +2606,7 @@ class Customer extends Bus{
                                                                     </td>
                                                                 </tr>
 
-                                                                <img src="https://www.eventbrite.com/emails/action/?recipient=muriithijames556%40gmail.com&amp;type_id=65&amp;type=open&amp;send_id=2019-06-25&amp;list_id=9" alt="" width="1" height="1" />
+                                                                <img src="https://www.eventbrite.com/emails/action/?recipient=muriithijames556%40gmail.com&amp;type_id=65&amp;type=open&amp;send_id=2023-06-25&amp;list_id=9" alt="" width="1" height="1" />
 
                                                             </table>
                                                         </td>
@@ -3546,7 +3546,7 @@ class Customer extends Bus{
                                         </tr>
 
                                         <script type="application/ld+json">
-                                            { "@context": "http://schema.org", "@type": "EventReservation", "reservationNumber": "973030087", "reservationStatus": "http://schema.org/Confirmed", "modifyReservationUrl": "https://www.eventbrite.com/mytickets/973030087?utm_campaign=order_confirm&amp;utm_medium=email&amp;ref=eemailordconf&amp;utm_source=eb_email&amp;utm_term=googlenow", "underName": { "@type": "Person", "name": "James Muriithi" }, "reservationFor": { "@type": "Event", "name": "ALC MEETUP 1.0 [ Mombasa ]", "startDate": "2019-06-29T08:00:00+03:00", "endDate": "2019-06-29T14:00:00+03:00", "location": { "@type": "Place", "name": "Swahili Box", "address": { "@type": "PostalAddress", "streetAddress": "Sir Mbarak Hinawy Road", "addressLocality": "Mombasa", "addressRegion": "Mombasa County", "postalCode": "", "addressCountry": "KE" } } } }
+                                            { "@context": "http://schema.org", "@type": "EventReservation", "reservationNumber": "973030087", "reservationStatus": "http://schema.org/Confirmed", "modifyReservationUrl": "https://www.eventbrite.com/mytickets/973030087?utm_campaign=order_confirm&amp;utm_medium=email&amp;ref=eemailordconf&amp;utm_source=eb_email&amp;utm_term=googlenow", "underName": { "@type": "Person", "name": "James Muriithi" }, "reservationFor": { "@type": "Event", "name": "ALC MEETUP 1.0 [ Mombasa ]", "startDate": "2023-06-29T08:00:00+03:00", "endDate": "2023-06-29T14:00:00+03:00", "location": { "@type": "Place", "name": "Swahili Box", "address": { "@type": "PostalAddress", "streetAddress": "Sir Mbarak Hinawy Road", "addressLocality": "Mombasa", "addressRegion": "Mombasa County", "postalCode": "", "addressCountry": "KE" } } } }
                                         </script>
 
                                         <!-- Footer Section-->
@@ -3715,7 +3715,7 @@ class Customer extends Bus{
         font-family: \'Helvetica Neue\', Helvetica, Arial, sans-serif;
      color:#4B4D63;font-weight:normal;" class="">
 
-            Copyright &copy; 2019 BUS. All rights reserved.
+            Copyright &copy; 2023 BUS. All rights reserved.
 
     </span>
 
@@ -3740,7 +3740,7 @@ class Customer extends Bus{
                                                                     </td>
                                                                 </tr>
 
-                                                                <img src="https://www.eventbrite.com/emails/action/?recipient=muriithijames556%40gmail.com&amp;type_id=65&amp;type=open&amp;send_id=2019-06-25&amp;list_id=9" alt="" width="1" height="1" />
+                                                                <img src="https://www.eventbrite.com/emails/action/?recipient=muriithijames556%40gmail.com&amp;type_id=65&amp;type=open&amp;send_id=2023-06-25&amp;list_id=9" alt="" width="1" height="1" />
 
                                                             </table>
                                                         </td>

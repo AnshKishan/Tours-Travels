@@ -157,7 +157,7 @@ class Bus extends Email
      */
     public function seatBooked($seat_no, $date = ''):string
     {
-        $date = empty($date)? date('Y-m-d',strtotime('2019-12-27')): date('Y-m-d', strtotime($date));
+        $date = empty($date)? date('Y-m-d',strtotime('2023-12-27')): date('Y-m-d', strtotime($date));
 
         $query = 'SELECT 
                     *

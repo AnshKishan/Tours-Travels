@@ -1,6 +1,6 @@
 # Change Log
 
-## 6.5.0 - 2019-11-07
+## 6.5.0 - 2023-11-07
 
 * Improvement: Added support for reset internal queue in MockHandler. [#2143](https://github.com/guzzle/guzzle/pull/2143)
 * Improvement: Added support to pass arbitrary options to `curl_multi_init`. [#2287](https://github.com/guzzle/guzzle/pull/2287)
@@ -9,12 +9,12 @@
 * Fix: Prevent undefined offset when using array for ssl_key options. [#2348](https://github.com/guzzle/guzzle/pull/2348)
 * Deprecated `ClientInterface::VERSION`
 
-## 6.4.1 - 2019-10-23
+## 6.4.1 - 2023-10-23
 
 * No `guzzle.phar` was created in 6.4.0 due expired API token. This release will fix that 
 * Added `parent::__construct()` to `FileCookieJar` and `SessionCookieJar`
 
-## 6.4.0 - 2019-10-23
+## 6.4.0 - 2023-10-23
 
 * Improvement: Improved error messages when using curl < 7.21.2 [#2108](https://github.com/guzzle/guzzle/pull/2108)
 * Fix: Test if response is readable before returning a summary in `RequestException::getResponseBodySummary()` [#2081](https://github.com/guzzle/guzzle/pull/2081)

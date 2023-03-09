@@ -23,7 +23,7 @@ response example
          "seats":"51",
          "arrival_time":"04:00:00",
          "departure_time":"04:00:00",
-         "booking_date":"2019-12-13 10:22:04",
+         "booking_date":"2023-12-13 10:22:04",
          "paid":"1"
       },
       { 
@@ -39,7 +39,7 @@ response example
          "seats":"51",
          "arrival_time":"04:00:00",
          "departure_time":"04:00:00",
-         "booking_date":"2019-12-13 10:22:05",
+         "booking_date":"2023-12-13 10:22:05",
          "paid":"1"
       }
    ]
@@ -79,7 +79,7 @@ example of data to be posted
     },
     {
       "name": "date",
-      "value": "2019-12-27"
+      "value": "2023-12-27"
     },
     {
       "name": "name",

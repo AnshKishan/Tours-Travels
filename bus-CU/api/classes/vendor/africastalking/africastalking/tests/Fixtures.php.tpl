@@ -38,7 +38,7 @@ class Fixtures
         'number' => '4111111111111111',
         'cvvNumber' => 654,
         'expiryMonth' => 7,
-        'expiryYear' => 2019,
+        'expiryYear' => 2023,
         'authToken' => '2345',
         'countryCode' => 'NG',
     ];
